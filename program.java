@@ -17,3 +17,4 @@ public class AddNumbers {
         input.close(); // Close the scanner
     }
 ~}
+NEW VERSION CODE
